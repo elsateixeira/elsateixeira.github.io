@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Elsa Teixeira"
-  avatar           : "profile.png"
+  avatar           : "profile2.png"
   bio              : "PhD Student in cosmology at the University of Sheffield"
   location         : "University of Sheffield, UK"
   employer         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
