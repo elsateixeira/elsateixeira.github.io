@@ -5,12 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+### 2019
+- **Conformally Coupled Tachyonic Dark Energy**\\
+*Elsa M. Teixeira, Ana Nunes, and Nelson J. Nunes*\\
+[PhysRevD.100.043539](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.043539), preprint at [arXiv:1903.06028](https://arxiv.org/pdf/1903.06028.pdf) 
