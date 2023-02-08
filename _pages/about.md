@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-After a concluding an [undergraduate](https://fenix.ciencias.ulisboa.pt/degrees/fisica-564500436615320?_ga=2.149328766.995699073.1675884816-780358488.1675884816) in Physics followed by a [master's degree](https://fenix.ciencias.ulisboa.pt/degrees/fisica-564500436615316?_ga=2.80843743.995699073.1675884816-780358488.1675884816) in Physics with specialisation in Astrophysics and Cosmology at the University of Lisbon, I am currently at the final stages of a PhD at the School of Mathematics and Statistics at the University of Sheffield ([IRAP](https://www.irap.omp.eu)) in Sheffield, UK started in 2019. You can find more information on my detailed CV [here](files/CV.pdf).
+After a concluding an [undergraduate](https://fenix.ciencias.ulisboa.pt/degrees/fisica-564500436615320?_ga=2.149328766.995699073.1675884816-780358488.1675884816) in Physics followed by a [master's degree](https://fenix.ciencias.ulisboa.pt/degrees/fisica-564500436615316?_ga=2.80843743.995699073.1675884816-780358488.1675884816) in Physics with specialisation in Astrophysics and Cosmology at the University of Lisbon, I am currently at the final stages of a PhD at the School of Mathematics and Statistics ([SoMaS](https://www.sheffield.ac.uk/maths)) at the University of Sheffield in Sheffield, UK started in 2019. You can find more information on my detailed CV [here](files/CV.pdf).
 
 My research interests are centred on theoretical and observational cosmology, with a particular focus on addressing the current cosmological tensions. In this framework, I am an active member of the [*Euclid*](https://www.euclid-ec.org) collaboration.
 
