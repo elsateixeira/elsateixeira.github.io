@@ -86,9 +86,9 @@ author:
   location         : "University of Sheffield, UK"
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=pt-PT&user=Th6kf84AAAAJ"
   email            : "emcteixeira1@sheffield.ac.uk"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Elsa-Teixeira-4"
   uri              :
   bitbucket        :
   codepen          :

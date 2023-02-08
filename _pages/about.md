@@ -29,4 +29,4 @@ A list of my publications can be found on the corresponding tab of this website 
 
 ## References
 
-PHD supervisor: [Carsten van de Bruck](c.vandebruck@sheffield.ac.uk)
+PhD supervisor: [Carsten van de Bruck](c.vandebruck@sheffield.ac.uk)
