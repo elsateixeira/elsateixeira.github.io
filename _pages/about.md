@@ -11,9 +11,9 @@ After a concluding an [undergraduate](https://fenix.ciencias.ulisboa.pt/degrees/
 
 My research interests are centred on theoretical and observational cosmology, with a particular focus on addressing the current cosmological tensions. In this framework, I am an active member of the [*Euclid*](https://www.euclid-ec.org) collaboration.
 
-Beside research, I am involved in several teaching activities. I have teaching experience in different topics at the [Physics Department of Faculdade de Ciências da Universidade de Lisboa](https://ciencias.ulisboa.pt/en/df) [School of Mathematics and Statistics at the University of Shffield](https://www.sheffield.ac.uk/maths). More detail can be found on the relevant tab of this website.
+Beside research, I am involved in several teaching activities. I have teaching experience in different topics at the [Physics Department of Faculdade de Ciências da Universidade de Lisboa](https://ciencias.ulisboa.pt/en/df) and at the [School of Mathematics and Statistics at the University of Sheffield](https://www.sheffield.ac.uk/maths). More detail can be found on the relevant tab of this website.
 
-I am also interested in outreach and communication and I am currently working on a project for an illustration book about the Universe.
+I am also interested in philosophy and outreach and communication in science. I am currently working on a project for an illustration book about the Universe.
 
 ## Research interests
 
