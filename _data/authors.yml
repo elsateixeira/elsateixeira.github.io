@@ -3,11 +3,14 @@
 Name Name:
   name        : "Elsa Teixeira"
   uri         : "http://name.com"
-  email       : "emcteixeira1@sheffield.ac.uk"
-  bio         : "This is the first name."
+  email       : "elsa.teixeira@umontpellier.fr"
+  bio         : "Cosmologist — dark sector, cosmological inference, Euclid"
+  location    : "Montpellier, France"
+  employer    : "LUPM (Univ. Montpellier / CNRS)"
   avatar      : "profile.png"
   twitter     : "name"
   google_plus : "Name"
+  github      : "elsateixeira"
 
 Name2 Name2:
   name        : "Name2 Name2"
