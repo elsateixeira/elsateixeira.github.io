@@ -7,10 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
----
-title: "About"
-author_profile: true
----
 
 I am a postdoctoral researcher in cosmology based at [LUPM](https://www.lupm.in2p3.fr), in Montpellier, south of France.
 After a [master's degree](https://fenix.ciencias.ulisboa.pt/degrees/fisica-564500436615316?_ga=2.80843743.995699073.1675884816-780358488.1675884816) in Physics with specialisation in Astrophysics and Cosmology at the University of Lisbon, I did my PhD in Astrophysics and Cosmology at the School of Mathematics and Statistics ([SoMaS](https://www.sheffield.ac.uk/maths)) at the University of Sheffield in Sheffield, UK from 2019 to 2023. You can find more information here on my detailed [CV](files/CV.pdf), along with the manuscript of my [PhD thesis](files/thesis.pdf).
