@@ -26,7 +26,7 @@ In this context I am interested in developing new and more efficient numerical d
 
 As part of the [*Euclid*](https://www.euclid-ec.org) collaboration I am investigating signatures of dark sector physics and degeneracies with consistency-breaking effects and modelling systematics in ΛCDM. I am currently the chair of the Early Career Committee and I co-lead a project on testing the distance duality relation with Euclid data and lead a project focused on cosmic tensions within Euclid's internal probes and also with external data.
 
-A list of my publications can be found on the corresponding tab of this website and also on [Scholar](https://scholar.google.com/citations?view_op=list_works&hl=pt-PT&user=Th6kf84AAAAJ), [Arxiv](https://arxiv.org/search/gr-qc?searchtype=author&query=Teixeira%2C+E+M), [Inspire](https://inspirehep.net/authors/1726192?ui-citation-summary=true), [ResearchGate](https://www.researchgate.net/profile/Elsa-Teixeira-4) or [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-7417-0780&sort=date+desc).
+A list of my publications can be found on the corresponding tab of this website and also on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=pt-PT&user=Th6kf84AAAAJ), [arXiv](https://arxiv.org/search/gr-qc?searchtype=author&query=Teixeira%2C+E+M), [Inspire](https://inspirehep.net/authors/1726192?ui-citation-summary=true), [ResearchGate](https://www.researchgate.net/profile/Elsa-Teixeira-4) or [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-7417-0780&sort=date+desc).
 
 ## References
 
