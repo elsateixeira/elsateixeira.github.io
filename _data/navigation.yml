@@ -12,5 +12,7 @@ main:
     url: /teaching/
   - title: "Outreach"
     url: /outreach/
+  - title: "Thesis"
+    url: /thesis/
   - title: "CV"
     url: /cv/
