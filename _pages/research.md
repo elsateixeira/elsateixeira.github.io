@@ -13,13 +13,14 @@ My research develops and tests physically motivated extensions of the dark secto
 - Controlled theoretical viability: stability conditions, parameter-space mapping, and degeneracy-breaking with complementary observables.
 
 **Consistency tests and cosmic tensions**
-- Distance-based consistency tests (e.g. distance duality) to distinguish genuine late-time dynamics from calibration or photon-propagation effects.
-- Cross-probe diagnostics motivated by current multi-probe anomalies.
+- Distance-based consistency tests (e.g. distance duality relation) to distinguish genuine late-time dynamics from calibration or photon-propagation effects.
+- Cross-probe diagnostics motivated by current multi-probe anomalies and tensions.
 
 **Euclid and survey-readiness**
 - Contributions to forecasts and likelihood development for joint weak-lensing + galaxy-clustering analyses.
 - Focus on robust theoretical interpretation of extended models in analysis pipelines.
+- I co-lead the project focused on testing the distance duality relation with Euclid data and lead a project focused on cosmic tensions with Euclid internal and external probes.
 
 ## Software and reproducibility
 
-I develop and maintain open-source code for cosmological modelling and inference, including modifications and extensions of **CLASS** and analysis pipelines used for parameter inference. Selected repositories are linked on my GitHub profile.
+I develop and maintain open-source code for cosmological modelling and inference, including modifications and extensions of [CLASS](https://github.com/lesgourg/class_public) and analysis pipelines used for parameter inference. Selected repositories are linked on my [GitHub](https://github.com/elsateixeira) profile.
