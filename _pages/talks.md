@@ -5,8 +5,8 @@ permalink: /talks/
 
 ## Selected invited seminars (recent)
 
+- **17 Mar Jan 2026** — RENOIR Cosmology Seminars, CPPM Marseille (Invited) — *Title TBA*
 - **9 Feb 2026** — DAMPT Cosmology Seminar, Cambridge (Invited) — *Title TBA*
-- **27 Jan 2026** — RENOIR Cosmology Seminars, CPPM Marseille (Invited) — *Title TBA*
 - **27 Jan 2026** — IPhT Cosmology/Particle/Nuclear Physics Seminars, Saclay (Invited) — *Title TBA*
 - **20 Jan 2026** — Séminaire Univers, IAP Paris (Invited) — *Title TBA*
 - **22 Dec 2025** — Cosmonata 2025, IA/FCUL Lisbon (Invited) — *Interacting dark sector with dark matter entropy couplings*
