@@ -5,7 +5,7 @@ permalink: /talks/
 
 ## Selected invited seminars (recent)
 
-- **17 Mar Jan 2026** — RENOIR Cosmology Seminars, CPPM Marseille (Invited) — *Title TBA*
+- **17 Mar 2026** — RENOIR Cosmology Seminars, CPPM Marseille (Invited) — *Title TBA*
 - **9 Feb 2026** — DAMPT Cosmology Seminar, Cambridge (Invited) — *Title TBA*
 - **27 Jan 2026** — IPhT Cosmology/Particle/Nuclear Physics Seminars, Saclay (Invited) — *Title TBA*
 - **20 Jan 2026** — Séminaire Univers, IAP Paris (Invited) — *Title TBA*
